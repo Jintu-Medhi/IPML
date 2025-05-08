@@ -26,3 +26,19 @@ Face-Recognition-Attendance-System
       - serviceAccountKey.json - JSON file containing Firebase service account credentials
   - assets - Documentation files
   - README.md - Project Documentation
+
+
+# Demo
+
+## Realtime Attendance for one individual
+
+![Output](assets/Results.png)
+
+
+## Realtime Attendance for group
+
+![Face Detection](assets/Detected faces.png)
+
+![Marked Attendance](assets/Marked attandance.png)
+
+
