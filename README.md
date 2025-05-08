@@ -7,7 +7,8 @@
 ![Flow Diagram](assets/flow_att_recog.png)
 
 Face-Recognition-Attendance-System
-  - Real Time
+
+  - Real Time - Face recognition based attendance system for one individual at a time
       - Images - Images of indivuals
       - Resources - Background images and mode screens for the GUI
       - AddDataToDatabase.py - Python file for adding data to the Firebase Database
@@ -15,7 +16,8 @@ Face-Recognition-Attendance-System
       - EncodeGenerator.py - Python file to generate the facial encodings
       - main.py - Python file to execute the project
       - serviceAccountKey.json - JSON file containing Firebase service account credentials
-  - Group Photo
+        
+  - Group Photo - Face recognition based attendance system for a group of individuals at a time
       - Images - Images of indivuals
       - AddDataToDatabase.py - Python file for adding data to the Firebase Database
       - EncodeFile.p - Pickle file containing the face encodings
@@ -24,6 +26,7 @@ Face-Recognition-Attendance-System
       - group_photo.png - Group picture used for the attendance system
       - main.py - Python file to execute the project
       - serviceAccountKey.json - JSON file containing Firebase service account credentials
+        
   - assets - Documentation files
   - README.md - Project Documentation
 
