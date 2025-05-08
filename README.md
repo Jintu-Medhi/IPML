@@ -6,7 +6,12 @@
 
 ![Flow Diagram](assets/flow_att_recog.png)
 
-/Face-Recognition-Attendance-System
+Face-Recognition-Attendance-System
+  - Real Time
+  - Group Photo
+
+
+Face-Recognition-Attendance-System
 │
 ├── Real Time/             # Real Time Attendance System for one individual at a time
   └──  Images/              # Images of indivuals
