@@ -27,20 +27,21 @@
 
 📁 Face-Recognition-Attendance-System
 ├── 📁 Real Time
-│   ├── 📁 Images
-│   ├── 📁 Resources
-│   ├── 📄 AddDataToDatabase.py
-│   ├── 📄 EncodeFile.p
-│   ├── 📄 EncodeGenerator.py
-│   ├── 📄 main.py
-│   └── 📄 serviceAccountKey.json
+│   ├── 📁 Images                # Stored individual face images
+│   ├── 📁 Resources             # GUI backgrounds and mode screens
+│   ├── 📄 AddDataToDatabase.py  # Add student data into Firebase Database
+│   ├── 📄 EncodeFile.p          # Serialized file containing face encodings
+│   ├── 📄 EncodeGenerator.py    # Script to generate facial encodings
+│   ├── 📄 main.py               # Main file to run real-time attendance system
+│   └── 📄 serviceAccountKey.json # Firebase service account credentials
 ├── 📁 Group Photo
-│   ├── 📁 Images
-│   ├── 📄 AddDataToDatabase.py
-│   ├── 📄 EncodeFile.p
-│   ├── 📄 EncodeGenerator.py
-│   ├── 📄 attendance_ui.py
-│   ├── 📄 group_photo.png
-│   ├── 📄 main.py
-│   └── 📄 serviceAccountKey.json
-└── 📄 README.md
+│   ├── 📁 Images                # Stored individual face images
+│   ├── 📄 AddDataToDatabase.py  # Add student data into Firebase Database
+│   ├── 📄 EncodeFile.p          # Serialized file containing face encodings
+│   ├── 📄 EncodeGenerator.py    # Script to generate facial encodings
+│   ├── 📄 attendance_ui.py      # UI after attendance update
+│   ├── 📄 group_photo.png       # Sample group photo for testing
+│   ├── 📄 main.py               # Main file to run group-photo attendance system
+│   └── 📄 serviceAccountKey.json # Firebase service account credentials
+└── 📄 README.md                 # Project documentation
+
