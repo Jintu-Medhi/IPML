@@ -37,8 +37,8 @@ Face-Recognition-Attendance-System
 
 ## Realtime Attendance for group
 
-![Face Detection](assets/Detected faces.png)
+![Face Detection](assets/Detected_faces.png)
 
-![Marked Attendance](assets/Marked attandance.png)
+![Marked Attendance](assets/Marked_attandance.png)
 
 
