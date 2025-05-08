@@ -25,3 +25,22 @@
 
 ├── README.md              # Project documentation
 
+📁 Face-Recognition-Attendance-System
+├── 📁 Real Time
+│   ├── 📁 Images
+│   ├── 📁 Resources
+│   ├── 📄 AddDataToDatabase.py
+│   ├── 📄 EncodeFile.p
+│   ├── 📄 EncodeGenerator.py
+│   ├── 📄 main.py
+│   └── 📄 serviceAccountKey.json
+├── 📁 Group Photo
+│   ├── 📁 Images
+│   ├── 📄 AddDataToDatabase.py
+│   ├── 📄 EncodeFile.p
+│   ├── 📄 EncodeGenerator.py
+│   ├── 📄 attendance_ui.py
+│   ├── 📄 group_photo.png
+│   ├── 📄 main.py
+│   └── 📄 serviceAccountKey.json
+└── 📄 README.md
